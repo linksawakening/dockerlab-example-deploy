@@ -1,0 +1,4 @@
+name: dockerlab-deploy
+
+include:
+  - services/searxng/compose.yaml
